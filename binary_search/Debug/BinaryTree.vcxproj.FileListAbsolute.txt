@@ -1,0 +1,2 @@
+C:\Users\alexa\Documents\Visual Studio 2019\BinaryTree\Debug\BinaryTree.exe
+C:\Users\alexa\Documents\Visual Studio 2019\BinaryTree\Debug\BinaryTree.pdb
